@@ -1,0 +1,10 @@
+{
+  "epsilon": 0.2,
+  "total_samples": 10000,
+  "baseline_clean_accuracy": 0.9882,
+  "baseline_fgsm_accuracy": 0.5023,
+  "defended_clean_accuracy": 0.9825,
+  "defended_fgsm_accuracy": 0.9651,
+  "fgsm_accuracy_improvement_percentage_points": 46.28,
+  "clean_accuracy_change_percentage_points": -0.5699999999999927
+}

@@ -1,0 +1,16 @@
+{
+  "baseline": {
+    "clean_accuracy": 0.9882,
+    "class_7_accuracy": 0.9834630350194552,
+    "actual_7_predicted_1": 0,
+    "actual_seven_samples": 1028
+  },
+  "poisoned": {
+    "clean_accuracy": 0.9892,
+    "class_7_accuracy": 0.9931906614785992,
+    "actual_7_predicted_1": 2,
+    "actual_seven_samples": 1028
+  },
+  "clean_accuracy_change_percentage_points": 0.10000000000000009,
+  "class_7_accuracy_change_percentage_points": 0.9727626459144045
+}
